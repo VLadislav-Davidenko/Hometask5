@@ -17,6 +17,8 @@ public class Main {
         Circle.answer(krug2);
 
         Pizeria.menu();
+        Pizza piza = new Pizza("Маргарита","Сыр, Помидоры, Базелик", 140, 40);
+        
 
     }
 }

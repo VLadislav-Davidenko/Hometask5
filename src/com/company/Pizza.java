@@ -3,7 +3,7 @@ package com.company;
 /**
  * Class Pizza where we convert diameter into radius and give an opportunity to create Objects
  */
-public class Pizza {
+public class Pizza  {
     Circle basis;
     String comp;
     String name;
@@ -11,11 +11,10 @@ public class Pizza {
     double diam;
 
     public Pizza(String name, String comp, double cost, double diam) {
-        this.diam = diam;
+        this.diam = diam/2;
         this.comp = comp;
         this.name = name;
         this.cost = cost;
-
-        Circle piz1 = new Circle(diam / 2);
+        Circle piz1 = new Circle(diam);
     }
 }
