@@ -2,6 +2,10 @@ package com.company;
 import com.company.Circle;
 import com.company.Pizeria;
 
+/**
+ * Main Class for creating Objects Circle
+ */
+
 public class Main {
 
     public static void main(String[] args) {

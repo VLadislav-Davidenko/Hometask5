@@ -1,5 +1,8 @@
 package com.company;
 
+/**
+ * Class Pizzeria our second main class where we make different kinds of pizzas, insert them into an array and print out it to our console
+ */
 
 public class Pizeria {
 

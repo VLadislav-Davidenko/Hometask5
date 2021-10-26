@@ -1,4 +1,7 @@
 package com.company;
+/**
+ * Class Circle for to give an ability to create Objects Circle with its colour and radius and compute its Length and Area
+ */
 
 import java.lang.Math;
 

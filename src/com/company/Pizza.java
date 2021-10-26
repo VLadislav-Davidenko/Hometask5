@@ -1,5 +1,8 @@
 package com.company;
 
+/**
+ * Class Pizza where we convert diameter into radius and give an opportunity to create Objects
+ */
 public class Pizza {
     Circle basis;
     String comp;
