@@ -1,5 +1,6 @@
 package com.company;
 import com.company.Circle;
+import com.company.Pizeria;
 
 public class Main {
 
@@ -10,6 +11,8 @@ public class Main {
 
         Circle.answer(krug1);
         Circle.answer(krug2);
+
+        Pizeria.menu();
 
     }
 }
